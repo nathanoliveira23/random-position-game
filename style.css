@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #e89005;
+}
+
+.circle{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 3px solid #e70e02;
+    outline: 8px solid #e70e02;
+    outline-offset: -18px;
+    position: absolute;
+    border-radius: 50%;
+}
